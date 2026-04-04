@@ -11,6 +11,8 @@ public class Main {
         // aqui guardamos el arreglo
         estudiante[] estudiantes = {e1, e2, e3};
 
+        System.out.println("Listado de estudiantes: ");
+
         // hacemos el recorrido con el for
         for (estudiante e : estudiantes) {
             System.out.println(
