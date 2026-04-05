@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|c:\\users\\altoc\\ideaprojects\\actividad1_estructuradedatos\\csharp\\actividad1\\actividad1\\struct_record\\estudiantestruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|solutionrelative:actividad1\\struct_record\\estudiantestruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|c:\\users\\altoc\\ideaprojects\\actividad1_estructuradedatos\\csharp\\actividad1\\actividad1\\ejercicio26\\posicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|solutionrelative:actividad1\\ejercicio26\\posicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|c:\\users\\altoc\\ideaprojects\\actividad1_estructuradedatos\\csharp\\actividad1\\actividad1\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|solutionrelative:actividad1\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|c:\\users\\altoc\\ideaprojects\\actividad1_estructuradedatos\\csharp\\actividad1\\actividad1\\ejercicio26\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|solutionrelative:actividad1\\ejercicio26\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|c:\\users\\altoc\\ideaprojects\\actividad1_estructuradedatos\\csharp\\actividad1\\actividad1\\struct_record\\estudianterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|solutionrelative:actividad1\\struct_record\\estudianterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|c:\\users\\altoc\\ideaprojects\\actividad1_estructuradedatos\\csharp\\actividad1\\actividad1\\ejercicio26\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|solutionrelative:actividad1\\ejercicio26\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|c:\\users\\altoc\\ideaprojects\\actividad1_estructuradedatos\\csharp\\actividad1\\actividad1\\ejercicio26\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|solutionrelative:actividad1\\ejercicio26\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|c:\\users\\altoc\\ideaprojects\\actividad1_estructuradedatos\\csharp\\actividad1\\actividad1\\ejercicio26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C687027-7FC1-46F6-9611-E79CF9C10C7D}|Actividad1\\Actividad1.csproj|solutionrelative:actividad1\\ejercicio26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +46,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore.txt",
-              "DocumentMoniker": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\.gitignore.txt",
-              "RelativeDocumentMoniker": "Actividad1\\.gitignore.txt",
-              "ToolTip": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\.gitignore.txt",
-              "RelativeToolTip": "Actividad1\\.gitignore.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-04T05:58:03.397Z",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\ejercicio26\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad1\\ejercicio26\\Program.cs",
+              "ToolTip": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\ejercicio26\\Program.cs",
+              "RelativeToolTip": "Actividad1\\ejercicio26\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T03:06:13.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EstudianteStruct.cs",
-              "DocumentMoniker": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\struct_record\\EstudianteStruct.cs",
-              "RelativeDocumentMoniker": "Actividad1\\struct_record\\EstudianteStruct.cs",
-              "ToolTip": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\struct_record\\EstudianteStruct.cs",
-              "RelativeToolTip": "Actividad1\\struct_record\\EstudianteStruct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\ejercicio26\\Sala.cs",
+              "RelativeDocumentMoniker": "Actividad1\\ejercicio26\\Sala.cs",
+              "ToolTip": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\ejercicio26\\Sala.cs",
+              "RelativeToolTip": "Actividad1\\ejercicio26\\Sala.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T05:40:35.147Z",
+              "WhenOpened": "2026-04-05T03:02:31.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EstudianteRecord.cs",
-              "DocumentMoniker": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\struct_record\\EstudianteRecord.cs",
-              "RelativeDocumentMoniker": "Actividad1\\struct_record\\EstudianteRecord.cs",
-              "ToolTip": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\struct_record\\EstudianteRecord.cs",
-              "RelativeToolTip": "Actividad1\\struct_record\\EstudianteRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Asiento.cs",
+              "DocumentMoniker": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\ejercicio26\\Asiento.cs",
+              "RelativeDocumentMoniker": "Actividad1\\ejercicio26\\Asiento.cs",
+              "ToolTip": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\ejercicio26\\Asiento.cs",
+              "RelativeToolTip": "Actividad1\\ejercicio26\\Asiento.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T05:40:33.829Z"
+              "WhenOpened": "2026-04-05T02:59:47.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\ejercicio26\\Reserva.cs",
+              "RelativeDocumentMoniker": "Actividad1\\ejercicio26\\Reserva.cs",
+              "ToolTip": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\ejercicio26\\Reserva.cs",
+              "RelativeToolTip": "Actividad1\\ejercicio26\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T02:58:41.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Posicion.cs",
+              "DocumentMoniker": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\ejercicio26\\Posicion.cs",
+              "RelativeDocumentMoniker": "Actividad1\\ejercicio26\\Posicion.cs",
+              "ToolTip": "C:\\Users\\altoc\\IdeaProjects\\Actividad1_EstructuraDeDatos\\CSharp\\Actividad1\\Actividad1\\ejercicio26\\Posicion.cs",
+              "RelativeToolTip": "Actividad1\\ejercicio26\\Posicion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T02:57:30.176Z",
+              "EditorCaption": ""
             }
           ]
         }
